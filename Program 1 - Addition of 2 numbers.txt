@@ -2,7 +2,7 @@
 
 // Program 1
 
-class Main {
+class Sum {
     
     public static void main(String[] args) {
     
@@ -11,5 +11,65 @@ class Main {
     double sum = a+b;
     
         System.out.println("The sum of 2 numbers is: " + sum);
+    }
+}
+
+// Program 2
+
+class Sub {
+    
+    public static void main(String[] args) {
+    
+    int a = 10;
+    int b = 6;
+    double sub = a-b;
+    
+        System.out.println("The sub of 2 numbers is: " + sub);
+    }
+}
+
+//Program 3
+
+
+// Program 2
+
+class Div {
+    
+    public static void main(String[] args) {
+    
+    int a = 10;
+    int b = 3;
+    double div = a/b;
+    
+        System.out.println("The div of 2 numbers is: " + div);
+    }
+}
+
+// Program 4
+
+class Mul {
+    
+    public static void main(String[] args) {
+    
+    int a = 5;
+    int b = 4;
+    int mul = a*b;
+    
+        System.out.println("The mul of 2 numbers is: " + mul);
+    }
+}
+
+//Program 5
+
+
+class Mod {
+    
+    public static void main(String[] args) {
+    
+    int a = 8;
+    int b = 4;
+    int mod = a % b;
+    
+        System.out.println("The mod of 2 numbers is: " + mod);
     }
 }
