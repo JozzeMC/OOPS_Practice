@@ -30,9 +30,6 @@ class Sub {
 
 //Program 3
 
-
-// Program 2
-
 class Div {
     
     public static void main(String[] args) {
